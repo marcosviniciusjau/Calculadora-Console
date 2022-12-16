@@ -1,0 +1,13 @@
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.exe
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.deps.json
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.runtimeconfig.json
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.runtimeconfig.dev.json
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.dll
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\bin\Debug\netcoreapp3.1\CalculadoraConsole.pdb
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.AssemblyInfoInputs.cache
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.AssemblyInfo.cs
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.dll
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.pdb
+C:\Users\Marcos Vinicius\Downloads\CalculadoraConsole-master\CalculadoraConsole-master\CalculadoraConsole\obj\Debug\netcoreapp3.1\CalculadoraConsole.genruntimeconfig.cache
